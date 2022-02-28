@@ -1,2 +1,6 @@
-# Plot-Grafik-di-Python
-Tips and trik plot grafik di pyhton dengan package "matplotlib" 
+### ▶️ Python - Library Matplotlib
+
+---
+
+Referensi:
+- [Youtube Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka/videos)
