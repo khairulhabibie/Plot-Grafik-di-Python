@@ -1,6 +1,1 @@
-### ▶️ Python - Library Matplotlib
-
----
-
-Referensi:
-- [Youtube Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka/videos)
+##Membuat Grafik dengan Python - Library Matplotlib
